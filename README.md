@@ -1,12 +1,12 @@
 Hi there 👋
 
-🔭 hello
+🔭 MMORPG Legend, SLG
 
 🌱 Language: java/python
 
 👯 SH
 
-💬 Focusing on: Game developing
+💬 Focusing on: Game development
 
 📫 QQ: 3206720240 EMAIL: canyuan0801@outlook.com
 
