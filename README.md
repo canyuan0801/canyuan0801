@@ -12,6 +12,6 @@ Hi there 👋
 
 <p align="center">😍 <strong>Why not come to travel Hangzhou?</strong> 😍 </p>
 
-<p align="center"><img width="280em" src="https://user-images.githubusercontent.com/45992437/221341503-34ab9cdd-21d4-40c4-9cc5-b578451a2a0b.jpg" alt="Guilin City" /> </p>
+<p align="center"><img width="280em" src="https://github.com/canyuan0801/canyuan0801/blob/master/.github/workflows/6D4AXY4%5BXLII_K%24AEK%24_%40R4.jpg" alt="Hangzhou City" /> </p>
 
 ![m](metrics.svg)
