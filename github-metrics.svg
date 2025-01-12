@@ -606,7 +606,7 @@ Know how to stop in the infinite flow, to avoid being washed away by water</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~2.99
+                            Average per day at ~2.98
                         </div>
                     </section>
                 </div>
@@ -2581,6 +2581,11 @@ Know how to stop in the infinite flow, to avoid being washed away by water</div>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2611,6 +2616,7 @@ Know how to stop in the infinite flow, to avoid being washed away by water</div>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="79" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="94" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -2696,7 +2702,7 @@ Know how to stop in the infinite flow, to avoid being washed away by water</div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        8.70k
+                                        8.71k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2889,7 +2895,7 @@ Know how to stop in the infinite flow, to avoid being washed away by water</div>
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAgYDBAUHCP/EACwQAAEDAgMHAgcAAAAAAAAAAAECAxEABAUSIQYTMUFRYYEiMmJxkrHB4fD/xAAYAQACAwAAAAAAAAAAAAAAAAAAAQIDBP/EABoRAAMBAQEBAAAAAAAAAAAAAAABAhExIVH/2gAMAwEAAhEDEQA/AOkUwYgieooxyrD3+MWViu3TcPNsl5zI2VHJJ6T1q2i8S6SGTnKdCBrB71hZIuqIqJV4pk5Qw4rnMful3a3aMYNhu8QM9y6d20mYjTj4/Na5bxHbJ5AW3jGVB4ByM3nSk2l7TwTaXSwpu/UAlbNt8Kd2Vx4P3obVOO2KnVW9whlt1J3iW0n6/cde4p0bZbQPSkCpFNIjhyq/I+BgjOYTeqkLUhxuSuHG8+vzJoFWGJGMriIAj+0p7U0lKUwO9RlpM8KHMV1Cw//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGBwP/xAAqEAABAgUDAwMFAQAAAAAAAAABAgMABAURExIhMQZRYQciQSMyc4GRof/EABgBAAMBAQAAAAAAAAAAAAAAAAEEBQAC/8QAHREAAgEEAwAAAAAAAAAAAAAAAAIBBBEUQRUhMf/aAAwDAQACEQMRAD8A2l1916W0rJ2iSrEiXSTaAF+pBDgZY6fdyLBIyTSQLD9eYzb1Q9Tqtro4kKW1KobmBMFReLgeWg7I2ttzfvcdobWsXQrNM+ypqFHUb+2EL9HVkPtgSpddV54y7rb0vL5js1gBAuAd73PiFy+ruotXuVK3/AIPIqHEcbSrzDYCniC4BuTzE11uqTdmKOfpttIm9bh5AFh8doGzrud+YHqLTbko+paQVoTrQr5SruIir1JVnwYz6ZObQ05lQhxu45J/l+I4LmEpVbEwo98xR/kSVHnnlTIZOnHjyJFvtPjxDNxZ1niMy2k5ibn/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgABAAEFAAAAAAAAAAAAAAAABwUBAwQGCP/EACoQAAEDAwMBBwUAAAAAAAAAAAECAwQABREGEiExByIzQVFhkRMlMlJx/8QAFgEBAQEAAAAAAAAAAAAAAAAABAAD/8QAGhEAAgMBAQAAAAAAAAAAAAAAAAECERIhA//aAAwDAQACEQMRAD8AG0Q+M4qtqsd21Hfm7VYmAt3kqKlADA69ankMcDFJPZBCt7l1W7ED0W4NsliQ4OQ5uO9BGf4QR7D1ou66KxfAq1JovUGlZMdF8hkR5GUNvAhY3gZxkVFqhHPSugu2Br7Iht+W66Q8gNtqxx1JPAzQ2pnmrdk4UX5EtmOME5c/UdaQex/UsBiHdIt/aaab2qkR3m/E3AeGcdc449+PMUOP964yHD+YUeaz7RNkQZ7L0VwtuIIcSR5KHeB+a3h5KUemM/Vp8FLX0G+yw3eJyXXbWsJ+ipR5aBAOFjqD5c1pOwetO6ZC7xZ9SwZu0x2koUgJGCN7CHD8KJI9KCcmjtU6Ep6Vn//Z" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcDBAUI/8QALBAAAQIFAgQFBQEAAAAAAAAAAQIDAAQFBhESIRMiMXEHFBVBUSNSYYGhkf/EABUBAQEAAAAAAAAAAAAAAAAAAAUE/8QAHhEAAgMAAgMBAAAAAAAAAAAAAQIAAwQFMRESE0H/2gAMAwEAAhEDEQA/ACeyrSXcvEcTMpaaZVh0aDnBGxG2D2hoKsqgMSzCTIIc4KSOItX+qVuMwt7IuRui0GcXKsuLm1OJCjryEp3OcY26EQWPeI9PcpktMrLyGXXgA8hJ3BPJtjfIOCDFe/RoNxVSfAkeTMnyDEdwFuu3vRl8dE5LOSz3OwnVhxST76MDb+QNZgy8SriFRableAUtNPK8u8ecOt/cCdx8e/T8QA8YfMN4LGupDWdw3VWKrSqyzZ1wei1yXfWQZcqHFSehA3H9xD/mK/QWKOZpbkkqnpSNLQAzqB6ae+PbaOcrMpkvVKtItTgUptxxoqAOMhS0pKexH7/MN1NLkHLoelFyjZlFIVlnKtPTvmD+RC+4P7FuOUshB6inuivms1h2aJ5M4SMYwMk9P3GR5gfMRXjLopN2vSEoVeXKlaQo5KPqLTsewHXMZ+swpWQqALCrAS5LT//Z" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcDBAUI/8QALBAAAQIFAgQFBQEAAAAAAAAAAQIDAAQFBhESIRMiMXEHFBVBUSNSYYGhkf/EABUBAQEAAAAAAAAAAAAAAAAAAAUE/8QAHhEAAgMAAgMBAAAAAAAAAAAAAQIAAwQFMRESE0H/2gAMAwEAAhEDEQA/ACeyrSXcvEcTMpaaZVh0aDnBGxG2D2hoKsqgMSzCTIIc4KSOItX+qVuMwtrIuRui0GcXKsuLm1OJCjryEp3OcY26EQWveI9PcpktMrLyGXXgA8hJ3BPJtjfIOCDFm/RoNxUE+BI8mZPkGI7gLddvejL46JyWclnudhOrDikn30YG38gazBl4lXEKi03K8ApaaeV5d484db+4E7j49+n4gB4w+YawWNdSGs7huqsVWlVlmzrg9Frku+sgy5UOKk9CBuP7iH/MV+gsUczS3JJVPSkaWgBnUD0098e20c5WZTJeqVaRanApTbjjRUAcZClpSU9iP3+YbqaXIOXQ9KLlGzKKQrLOVaenfMH8iF9wf2LccpZCD1FPdFfNZrDs0TyZwkYxgZJ6fuMjzA+YivGXRSbtekJQq8uVK0hRyUfUWnY9gOuYz9ZhSshUAWFWAlyWn//Z" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -3093,7 +3099,7 @@ Know how to stop in the infinite flow, to avoid being washed away by water</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.339493497604376 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.42436687200547 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3154,7 +3160,7 @@ Know how to stop in the infinite flow, to avoid being washed away by water</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 928k out of 153m users</span>
+                                    <span class="gh">ranked 929k out of 153m users</span>
                                 </div>
                                 <div class="text">Published 45 public repositories</div>
                             </div>
@@ -3550,7 +3556,7 @@ Know how to stop in the infinite flow, to avoid being washed away by water</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jan 2025, 20:41:44 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Jan 2025, 20:41:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
