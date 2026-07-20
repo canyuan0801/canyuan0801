@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 3 users
+                            Followed by 4 users
                         </div>
                     </section>
                     <section>
@@ -2562,36 +2562,6 @@ Know how to stop in the infinite flow, to avoid being washed away by water</div>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-1.7, 7)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-5.1, 9)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-6.8, 10)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-10.2, 12)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2866,6 +2836,9 @@ Know how to stop in the infinite flow, to avoid being washed away by water</div>
                                     <rect class="day" x="0" y="79" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="94" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
+                                <g transform="translate(435, 0)">
+                                    <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                </g>
                             </g>
                         </svg>
                     </section>
@@ -3114,10 +3087,11 @@ Know how to stop in the infinite flow, to avoid being washed away by water</div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    3 followers
+                    4 followers
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAABwMFAQIIBv/EACoQAAEDAwIFBAIDAAAAAAAAAAECAwQABREGIQcSEzFBFCNRYSJCcYGR/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAcEQABBAMBAAAAAAAAAAAAAAABAAIRIQMEFCL/2gAMAwEAAhEDEQA/ALyc1JhQX5k58MxmUlbjhAwAKMGeJyxLcbXE9taiWvcCCR97Hep+N2s5s2SjT64QgiG5iXy9nnQdiPPJjBGfn6FEEgOOchJOQcjFRY9JgHq1Vk3Xk+aTvp7WDF/ubdvR6mPIdz0yooKCQM4zjv8A1SpY13CHbWmeoVcud8j5rnTRGnb3ebU5e9PpD0+2SE8zCSA52yhYz33B2+vNO+ntGXq+2pm5aqvd1iXF/wDL00N4MoZR+qSnwryf5pcjAZbSPW8iHWqrjRoF7UzrFys7La5oT0n2yQjqJ8HJ2yO3+fFeE0NwvubM6ezqKxtuxHWOm2p14e2cg5BSSc7V0aob1hKRVsUo5uUZcOtBXTR9zuHpJrS7fLSjZWedBQTjxg7E77Ujtw3eX8njmpxtW6ScUSEpX//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIBAX/xAAmEAACAQQABgIDAQAAAAAAAAABAwIABAURBgcSIUFREzEjYaFx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEAQX/xAAbEQACAwEBAQAAAAAAAAAAAAABAwACESFBMf/aAAwDAQACEQMRAD8AbdLvPc1Mbjsiy0tLRt6FS6GNiwQhsfevdH13GcrV8UnTCsiJ9HXapmxVoY2MCwr+VjDBkZKP4xsjf78dv99VlM+mdZhtoAlF8N52y4ixcL7HSJWT0SjIamufo11KUnI2RTkOIbMM61QKpx7a9+KbdDcYeQ1k2GmYctkrXE2U7i+uEpgAdFsujZ9CpdlknBrZMVBhYwtHUPqZ79qMOcd053GzksmSpCVhcPA3ASP9oFkO1VqUDXT7JHNItzyMDknmrTH569VkbiCjerAWxh0DIH6343un1UiRiNVTXLNrLrgbEsfOUp/GYbPqMiB/AKW1fYxDTmT/2Q==" width="28" height="28" alt="" />
@@ -3354,7 +3328,7 @@ Know how to stop in the infinite flow, to avoid being washed away by water</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jul 2026, 21:41:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Jul 2026, 22:24:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
